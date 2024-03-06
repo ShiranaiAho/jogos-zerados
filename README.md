@@ -1,2 +1,2 @@
-# jogos-zerados
-Projeto pessoal que listará uma lista com todos os meus jogos zerados
+# Lista de Jogos zerados
+Projeto pessoal que listará todos os meus jogos zerados
